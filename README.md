@@ -1,11 +1,16 @@
-# Open Diplomas
+# Django hiding sensitive data with Decouple
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-How to **hide sensitive data** in **Django** through Python **Decouple**
+How to **hide sensitive data** in **Django** with Python **Decouple** Library
 
-For more details, you can see the original [post](https://www.samirhinojosa.com/hide-sensitive-data-in-django-with-decouple/) in my [blog](https://www.samirhinojosa.com/blog/).
+For more details, you can see the original [post](https://www.samirhinojosa.com/hide-sensitive-data-in-django-with-decouple/) in [samirhinojosa.com/blog](https://www.samirhinojosa.com/blog/).
 
-## **To run the development server with Docker / Visual Studio Code**
+## Files to consider
+- `requirements.txt`
+- `.env`
+- `djangohidingsensitivedata/settings.py`
+
+## To run the development server with Docker / Visual Studio Code
 
 1.  Install Docker and Docker Compose
 2. With a **Terminal** 
@@ -24,7 +29,9 @@ For more details, you can see the original [post](https://www.samirhinojosa.com/
         - Remote – Containers
         - Python
     - Open the project in Visual Studio Code
-4.  Create the database and database user based on `settings.py` 
+4.  Create the database and database user based on `settings.py`.\
+In this case, consider the file `.env` as well.\
+The Postgres password is `postgres` you can see it in the `docker-compose-yml`. 
     ```python
     'NAME': 'test_db',
     'USER': 'test',
