@@ -5,9 +5,9 @@ In this repository you can get the codes from my [samirhinojosa.com/blog](https:
 
 Consider that each branch is a project or specific code.
 
-## Code's list
-- How to hididing sensitive data in Django [\[Link\]](https://github.com/samirhinojosa/blog-code-examples/tree/django-hiding-sensitive-data).
-- How to set up a Django project with Docker and Visual Studio Code [\[Link\]](https://github.com/samirhinojosa/blog-code-examples/tree/django-setup-project-docker).
+## List of Posts & Codes
+- How to hididing sensitive data in Django [\[post link\]](https://www.samirhinojosa.com/hiding-sensitive-data-in-django/) - [\[code link\]](https://github.com/samirhinojosa/blog-code-examples/tree/django-hiding-sensitive-data).
+- How to set up a Django project with Docker and Visual Studio Code [\[post link\]](https://www.samirhinojosa.com/django-docker-visual-studio-code/) - [\[code link\]](https://github.com/samirhinojosa/blog-code-examples/tree/django-setup-project-docker).
 
 
 
