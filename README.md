@@ -12,7 +12,7 @@ Table of Contents<br>
 [3. Set up GitHub](https://www.samirhinojosa.com/aws-for-data-science/#github)<br>
 [4. Set up Miniconda](https://www.samirhinojosa.com/aws-for-data-science/#miniconda)<br>
 [5. Set up an S3 storage](https://www.samirhinojosa.com/aws-for-data-science/#s3storagemain)<br>
-[5.1. Set up an S3 storage](https://www.samirhinojosa.com/aws-for-data-science/#s3storagemain)<br>
+[5.1. Set up an S3 storage](https://www.samirhinojosa.com/aws-for-data-science/#s3storage1)<br>
 [5.2. Creating an IAM user](https://www.samirhinojosa.com/aws-for-data-science/#iamuser)<br>
 [5.3. Connect to the S3 storage from the EC2 instance](https://www.samirhinojosa.com/aws-for-data-science/#s3awscredentials)<br>
 [6. Last configurations](https://www.samirhinojosa.com/aws-for-data-science/#lastconfigurations)
