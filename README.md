@@ -12,8 +12,8 @@ Table of Contents
 3. Set up GitHub
 4. Set up Miniconda
 5. Set up an S3 storage
-5.1. Set up an S3 storage
-5.2. Creating an IAM user
-5.3. Connect to the S3 storage from the EC2 instance
+5.1 Set up an S3 storage
+5.2 Creating an IAM user
+5.3 Connect to the S3 storage from the EC2 instance
 6. Last configurations
 
