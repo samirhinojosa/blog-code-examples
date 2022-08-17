@@ -15,5 +15,5 @@ Table of Contents<br>
 [5.1. Set up an S3 storage](https://www.samirhinojosa.com/aws-for-data-science/#s3storage1)<br>
 [5.2. Creating an IAM user](https://www.samirhinojosa.com/aws-for-data-science/#iamuser)<br>
 [5.3. Connect to the S3 storage from the EC2 instance](https://www.samirhinojosa.com/aws-for-data-science/#s3awscredentials)<br>
-[6. Last configurations](https://www.samirhinojosa.com/aws-for-data-science/#lastconfigurations)
+[6. Last configurations](https://www.samirhinojosa.com/aws-for-data-science/#lastconfigurations) 
 
