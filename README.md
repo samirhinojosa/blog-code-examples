@@ -7,9 +7,9 @@ For more details, you can see the original [post](https://www.samirhinojosa.com/
 
 
 Table of Contents
-1. Set up an EC2 instance
-2. Connect to the EC2 instance using SSH
-3. Set up GitHub
+[1. Set up an EC2 instance](https://www.samirhinojosa.com/aws-for-data-science/#ec2instance)
+[2. Connect to the EC2 instance using SSH](https://www.samirhinojosa.com/aws-for-data-science/#ec2ssh)
+[3. Set up GitHub](https://www.samirhinojosa.com/aws-for-data-science/#github)
 4. Set up Miniconda
 5. Set up an S3 storage<br>
 5.1. Set up an S3 storage<br>
